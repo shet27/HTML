@@ -7,6 +7,7 @@ Example of center and BR tag
 </Head>
 <Body>  
 <center>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 Basic HTML code for beginner <br> 
 <center>
 Hi guys myself Likith  <br>
